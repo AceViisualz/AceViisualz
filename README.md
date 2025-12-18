@@ -1,15 +1,19 @@
-## Hi there 👋
+# Hi there 👋
 
-I’m Adam, a Software Engineer based in the United States.
+I'm Adam, a Software Engineer based in the United States.  
 
-I design and build projects that bring my ideas to life. When an idea pops into my head, I usually build it and ship it.
+I design and build projects that bring my ideas to life. When an idea pops into my head, I usually build it and ship it.  
 
-My main tech stack includes C++, C, and Python. Some of my favorite tools are VS Code and Git.
+### 💻 Skills & Tools
+- **Languages:** C++, C, Python  
+- **Tools:** VS Code, Git  
 
-I have several pinned projects, but my personal favorite is Tic-Tac-Toe. I’ve built over 10 public reports, and likely more than 20 privately.
+### 📂 Projects
+- My personal favorite: **Tic-Tac-Toe**  
+- Built over 10 public projects, and likely more than 20 privately  
 
-**Fun Facts**
+### 🎉 Fun Facts
 - I have a cat 
-- I don’t like dark coffee
-- Demon Slayer is my favorite anime
+- I don’t like dark coffee   
+- *Demon Slayer* is my favorite anime  
 - Hobbies: anime, gym, building things
