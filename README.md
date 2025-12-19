@@ -6,7 +6,7 @@ I design and build projects that bring my ideas to life. When an idea pops into 
 
 ### 💻 Skills & Tools
 - **Languages:** C++, C, Python  
-- **Tools:** VS Code, Git  
+- **Tools:** VS Code, Git, Google Colab  
 
 ### 📂 Projects
 - My personal favorite: **Tic-Tac-Toe**  
