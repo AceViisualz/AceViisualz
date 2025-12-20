@@ -9,7 +9,7 @@ I design and build projects that bring my ideas to life. When an idea pops into 
 - **Tools:** VS Code, Git, Google Colab  
 
 ### 📂 Projects
-- My personal favorite: **Tic-Tac-Toe**  
+- My personal favorite: **Football Match Winner Predictor**  
 - Built over 10 public projects, and likely more than 20 privately  
 
 ### 🎉 Fun Facts
