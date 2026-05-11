@@ -5,8 +5,8 @@ I'm Adam, a Software Engineer based in the United States.
 I design and build projects that bring my ideas to life. When an idea pops into my head, I usually build it and ship it.  
 
 ### 💻 Skills & Tools
-- **Languages:** C++, C, Python  
-- **Tools:** VS Code, Git, Google Colab  
+- **Languages:** C++, C, Java, Python  
+- **Tools:** VS Code, Git, Google Colab, GDB, Valgrind, GProf, Vim  
 
 ### 📂 Projects
 - My personal favorite: **Football Match Winner Predictor**  
@@ -16,4 +16,4 @@ I design and build projects that bring my ideas to life. When an idea pops into 
 - I have a cat 
 - I don’t like dark coffee   
 - *Demon Slayer* is my favorite anime  
-- Hobbies: anime, gym, building things
+- Hobbies: anime, gym, building Games
